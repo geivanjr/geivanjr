@@ -3,7 +3,6 @@
 
 int main() {
   printf("Hello world!!");
-  printf("Esta desgraca foi feita no vscode");
-  printf("Help");
-    return 0;
+  printf("Este código foi feito no vscode");
+  return 0;
 }
